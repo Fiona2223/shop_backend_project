@@ -18,8 +18,7 @@
 > 4. Dependencies
 > 5. Diagrams
 > 6. The API
-> 7. Challenges
-> 8. Future
+
 
 ### **_1. Project Overview_**
 
@@ -102,18 +101,5 @@ spring.jpa.properties.hibernate.enable_lazy_load_no_trans=true
 
 
 
-
-
-
-
-
-
-
-
-
-
-### **_7.Challenges_**:
-
-### **_8. Future_**:
 
 
